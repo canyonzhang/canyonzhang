@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canyon Zhang</h1>
-<h3 align="center">A passionate full-stack developer with ML experience</h3>
+<h3 align="center">A passionate software engineer always striving to learn from others!</h3>
 
 - 🔭 I’m currently working on [ChatPDF](https://chatpdfdocs.streamlit.app/)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [canyonzhang.vercel.app/](canyonzhang.vercel.app/)
 
-- 💬 Ask me about **Machine Learning, Web Development, Mobile Development**
+- 💬 Ask me about **Machine Learning, Web Development, DevOps**
 
 - 📫 How to reach me **canyonzh@usc.edu**
 
