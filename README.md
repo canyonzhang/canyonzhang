@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, Langchain, Next.js**
 
-- 👨‍💻 All of my projects are available at [canyonzhang.vercel.app/](canyonzhang.vercel.app/)
+- 👨‍💻 Check out my portfolio at [canyonz.me](https://www.canyonz.me/)
 
 - 💬 Ask me about **Machine Learning, Web Development, DevOps**
 
