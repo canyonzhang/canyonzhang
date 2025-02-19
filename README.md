@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Canyon Zhang</h1>
 <h3 align="center">A passionate software engineer always striving to learn from others!</h3>
 
-- 🔭 I’m currently working on [ChatPDF](https://chatpdfdocs.streamlit.app/)
+- 🔭 I’m currently at Intel as a Cloud Software Engineer
 
 - 🌱 I’m currently learning **TensorFlow, Langchain, Next.js**
 
