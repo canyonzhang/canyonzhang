@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently at Intel as a Cloud Software Engineer
 
-- 🌱 I’m currently learning **TensorFlow, Langchain, Next.js**
+- 🌱 I’m currently learning **Kubernetes, Helm, PyTest**
 
 - 👨‍💻 Check out my portfolio at [canyonz.me](https://www.canyonz.me/)
 
